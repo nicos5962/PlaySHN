@@ -1,0 +1,10 @@
+# String file for PlaySHN plugin
+
+PLUGIN_PLAYSHN
+	EN	Play SHN
+
+PLUGIN_PLAYSHN_DESC
+	EN	Play Shorten (SHN) files
+		
+SHN
+	EN	SHN
