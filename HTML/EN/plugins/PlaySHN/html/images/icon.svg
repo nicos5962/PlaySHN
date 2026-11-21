@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128">
+  <rect x="4" y="4" width="120" height="120" rx="20"
+        fill="#e74c3c" stroke="#1f5f8a" stroke-width="4"/>
+  <polygon points="46,36 46,92 92,64" fill="#ffffff" opacity="0.15"/>
+  <text x="50%" y="58%" font-size="34" fill="#ffffff"
+        text-anchor="middle" dominant-baseline="middle"
+        font-family="Arial" font-weight="bold">SHN</text>
+</svg>
